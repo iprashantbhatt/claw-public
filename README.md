@@ -29,3 +29,8 @@ chmod +x scripts/safe_mode_24h_scanner.sh
 
 ## Public repo policy
 This repository is intentionally sanitized. Operational logs, personal memory, and private credentials must stay in private storage.
+
+## Repository layout
+- `scripts/` runnable utilities
+- `docs/` public documentation
+- `Makefile` helper developer commands
