@@ -1,0 +1,14 @@
+# Runtime artifacts
+*.out
+*.log
+*.tmp
+.DS_Store
+
+# Secrets / env
+.env
+.env.*
+*.secret
+
+# Python
+__pycache__/
+*.pyc
