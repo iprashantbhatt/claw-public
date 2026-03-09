@@ -18,3 +18,14 @@ This public repo intentionally excludes:
 - private user context
 
 Review scripts before production use.
+
+## Quick usage
+
+```bash
+# Example (review script before running)
+chmod +x scripts/safe_mode_24h_scanner.sh
+./scripts/safe_mode_24h_scanner.sh
+```
+
+## Public repo policy
+This repository is intentionally sanitized. Operational logs, personal memory, and private credentials must stay in private storage.
