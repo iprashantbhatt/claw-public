@@ -21,3 +21,4 @@
 - 2026-03-11 03:00 UTC — hourly 24h greenery pulse.
 - 2026-03-11 04:00 UTC — hourly 24h greenery pulse.
 - 2026-03-11 05:00 UTC — hourly 24h greenery pulse.
+- 2026-03-11 06:00 UTC — hourly 24h greenery pulse.
